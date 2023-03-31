@@ -1,0 +1,19 @@
+{
+  "name": "pdg-doc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/674948122/pdg-doc",
+  "author": "pandegong <674948122@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.9",
+    "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-fulltext-search": "^2.2.1",
+    "vuepress-plugin-one-click-copy": "^1.0.6",
+    "vuepress-theme-vdoing": "^1.12.8"
+  }
+}
