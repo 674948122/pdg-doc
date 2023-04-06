@@ -8,7 +8,7 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "deploy-gh": "deploy-gh.sh"
+    "deploy-gh": "sh deploy-gh.sh"
   },
   "devDependencies": {
     "vuepress": "^1.9.9",
