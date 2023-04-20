@@ -13,8 +13,12 @@
   "devDependencies": {
     "vuepress": "^1.9.9",
     "vuepress-plugin-cursor-effects": "^1.1.6",
+    "vuepress-plugin-element-ui": "^1.1.0",
     "vuepress-plugin-fulltext-search": "^2.2.1",
     "vuepress-plugin-one-click-copy": "^1.0.6",
     "vuepress-theme-vdoing": "^1.12.8"
+  },
+  "dependencies": {
+    "async-validator": "1.11.5"
   }
 }

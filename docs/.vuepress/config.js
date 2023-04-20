@@ -13,5 +13,5 @@ module.exports = {
         sidebar: "structuring", //  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义
         pageStyle: "line",
     },
-    plugins: ["fulltext-search", "one-click-copy", "cursor-effects"],
+    plugins: ["element-ui", "fulltext-search", "one-click-copy", "cursor-effects"],
 };
