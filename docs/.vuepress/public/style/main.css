@@ -1,0 +1,3 @@
+div[class*="language-"]{
+    border-radius: 0 !important;
+}

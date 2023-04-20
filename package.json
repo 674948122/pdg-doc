@@ -19,6 +19,7 @@
     "vuepress-theme-vdoing": "^1.12.8"
   },
   "dependencies": {
-    "async-validator": "1.11.5"
+    "async-validator": "1.11.5",
+    "vuepress-plugin-demo-block": "^0.7.2"
   }
 }
