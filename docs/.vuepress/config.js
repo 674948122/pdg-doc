@@ -3,6 +3,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/images/logo.jpeg' }]
     ],
+    title: 'PDG-DOC',
     themeConfig: {
         logo: '/images/logo.jpeg',
         nav: [
